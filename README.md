@@ -2,7 +2,7 @@
 
 A modern, responsive personal blog built with Next.js 14, featuring a beautiful UI and engaging content about technology, career experiences, and personal growth.
 
-![Blog Preview](public/placeholder.svg)
+![Srivani's Blog Preview](https://raw.githubusercontent.com/sv410/SrivaniBlog/main/public/placeholder.jpg)
 
 ## Features
 
