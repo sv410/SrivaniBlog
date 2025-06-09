@@ -96,9 +96,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 - GitHub: [@sv410](https://github.com/sv410)
-- LinkedIn: [srivani-dev](https://linkedin.com/in/srivani-dev)
-- Twitter: [@srivani_dev](https://twitter.com/srivani_dev)
-
 ## Acknowledgments
 
 - [Next.js](https://nextjs.org/)
